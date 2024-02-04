@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-ta-lib
+ta-lib/
 
 # C extensions
 *.so
